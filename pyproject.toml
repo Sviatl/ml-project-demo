@@ -1,8 +1,11 @@
 [tool.poetry]
-name = "demo-rs-homework"
+name = "heart_ml"
 version = "0.1.0"
 description = "Demo homework for RS School Machine Learning course"
 authors = ["astraszab <uladzislau_astrashab@epam.com>"]
+
+[tool.poetry.scripts]
+train = "heart_ml.train:train"
 
 [tool.poetry.dependencies]
 python = "^3.9"
