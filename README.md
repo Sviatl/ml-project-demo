@@ -2,7 +2,7 @@ Demo homework for RS School Machine Learning course.
 
 This demo uses [Heart Disease UCI](https://www.kaggle.com/ronitf/heart-disease-uci) dataset.
 
-# Usage
+## Usage
 This package allows you to train model for detecting the presence of heart disease in the patient.
 1. Clone this repository to your machine.
 2. Download [Heart Disease UCI](https://www.kaggle.com/ronitf/heart-disease-uci) dataset, save csv locally (default path is *data/heart.csv* in repository's root).
